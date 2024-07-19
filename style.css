@@ -465,6 +465,7 @@ button.bookmarkBtn {
   transform: scale(var(--nav-active-scale));
   visibility: visible;
   opacity: 1;
+  z-index: 999;
 }
 nav.popup-window {
     padding: 7px 137px 115px 13px;
